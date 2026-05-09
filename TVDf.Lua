@@ -1,4 +1,4 @@
-100layers = game:GetService("Players")
+layers = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 local LocalPlayer = Players.LocalPlayer
 
