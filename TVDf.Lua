@@ -1,10 +1,10 @@
-layers = game:GetService("Players")
+local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 local LocalPlayer = Players.LocalPlayer
 
 -- ============ ตั้งค่า ============
 local SCAN_RATE = 0.5
-local AURA_RANGE = 1000
+local AURA_RANGE = 300
 local ATTACK_RATE = 0.1
 
 -- ============ สถานะ ============
