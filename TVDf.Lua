@@ -4,7 +4,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- ============ ตั้งค่า ============
 local SCAN_RATE = 0.5
-local AURA_RANGE = 30
+local AURA_RANGE = 100
 local ATTACK_RATE = 0.1
 
 -- ============ สถานะ ============
